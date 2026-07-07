@@ -13,7 +13,7 @@ where most of the design effort went.
 ## Architecture
 
 ```
-support_agent/
+Support-agent/
 ├── data/
 │   ├── orders.csv                  # structured order records
 │   └── policies/*.md               # the four policy documents
