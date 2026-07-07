@@ -1,0 +1,21 @@
+order_id,customer_name,product,category,amount_inr,order_date,status,payment_method,pincode
+ORD1001,Ananya Rao,Wireless Earbuds X200,Electronics,2499,2026-06-28,Delivered,UPI,500001
+ORD1002,Vikram Shah,Cotton Kurta - Blue,Apparel,899,2026-06-30,Shipped,Card,400001
+ORD1003,Fatima Sheikh,Non-stick Pan Set,Home & Kitchen,1799,2026-07-01,Processing,COD,110001
+ORD1004,Rohit Verma,Smartwatch Pro,Electronics,4999,2026-06-25,Delivered,UPI,560001
+ORD1005,Sneha Patil,Yoga Mat,Fitness,699,2026-07-02,Confirmed,Netbanking,411001
+ORD1006,Arjun Nair,Bluetooth Speaker Mini,Electronics,1299,2026-06-20,Delivered,UPI,682001
+ORD1007,Priya Menon,Face Serum Set,Cosmetics,1099,2026-07-03,Shipped,COD,600001
+ORD1008,Karan Malhotra,Running Shoes,Apparel,2299,2026-06-29,Cancelled,Card,700001
+ORD1009,Divya Iyer,Air Fryer 4L,Home & Kitchen,3499,2026-06-18,Delivered,UPI,560002
+ORD1010,Suresh Kumar,Formal Shirt - White,Apparel,1099,2026-07-01,Processing,COD,500002
+ORD1011,Meera Joshi,Laptop Stand,Electronics,899,2026-06-27,Delivered,Card,411002
+ORD1012,Aditya Singh,Protein Powder 1kg,Fitness,1899,2026-07-02,Confirmed,UPI,110002
+ORD1013,Neha Gupta,Silk Saree,Apparel,3999,2026-06-15,Delivered,Netbanking,700002
+ORD1014,Rahul Desai,Gaming Mouse,Electronics,1599,2026-06-30,Shipped,UPI,400002
+ORD1015,Pooja Reddy,Lipstick Combo,Cosmetics,799,2026-07-03,Confirmed,COD,500003
+ORD1016,Manoj Tiwari,Pressure Cooker 5L,Home & Kitchen,1699,2026-06-22,Delivered,UPI,226001
+ORD1017,Kavya Krishnan,Denim Jacket,Apparel,2199,2026-06-29,Shipped,Card,682002
+ORD1018,Sanjay Bhatt,Home Theater System,Electronics,8999,2026-06-10,Delivered,Netbanking,380001
+ORD1019,Isha Kapoor,Resistance Bands Set,Fitness,499,2026-07-04,Confirmed,UPI,110003
+ORD1020,Deepak Chauhan,Electric Kettle,Home & Kitchen,999,2026-07-01,Cancelled,COD,560003
